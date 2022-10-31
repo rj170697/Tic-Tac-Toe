@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+#  tic ,tac,toe game that takes integer as input for positioning marker
 from IPython.display import clear_output
 
 def display_board(brd_lst):
@@ -209,31 +209,7 @@ while True:
         break
 
 
-# In[ ]:
 
-
-
-
-
-# In[14]:
-
-
-#k,m=player_input()
-
-
-# In[15]:
-
-
-#k
-
-
-# In[16]:
-
-
-#m
-
-
-# In[ ]:
 
 
 
