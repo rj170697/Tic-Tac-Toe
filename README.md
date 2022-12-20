@@ -1,7 +1,8 @@
 # Tic-Tac-Toe
 ##both players must enter desired position as intger from 1-9 
-## coding was done in Jupyternotebook
-## it lacks GUI 
+##coding was done in Jupyternotebook
+##it lacks GUI 
+
 ##its basic code without using interactive library 
 
 
